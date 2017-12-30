@@ -75,7 +75,6 @@ public class MainActivity extends AppCompatActivity {
                 Log.e("TAG", "run: " );
                 try {
                     String i=runn("https://www.2cto.com/kf/201704/629164.html");
-                    Log.e("TAG", "run:88888887777" );
                     Log.e("TAG", "run8888888888888: "+i);
                 } catch (IOException e) {
                     e.printStackTrace();
